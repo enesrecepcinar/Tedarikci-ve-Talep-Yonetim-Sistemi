@@ -1,2 +1,2 @@
 # Tedarikci-ve-Talep-Yonetim-Sistemi
-Tedarikçi Yönetim ve Talep Oluşturma Sistemi
+Bu projede, tedarikçi yönetimi ve talep oluşturma süreçlerini entegre eden bir sistem geliştirdim. Kullanıcıların tedarikçi bilgilerini sisteme kaydedip raporlama ekranlarında görüntüleyebilmesi için bir veri giriş ekranı ve ALV rapor ekranı oluşturdum. Tedarikçi seçimine bağlı olarak pop-up ekranı üzerinden talep oluşturma işlevi tasarladım ve tüm verileri 3. Normal Form'a uygun şekilde normalize edilmiş bir veritabanında sakladım. SAP ABAP ALV ve SALV araçlarını kullanarak tedarikçi ve talep verilerini raporladım. Ayrıca, seçim kriterleri ve filtreleme özellikleri ekleyerek kullanıcıların verilere hızlı ve etkin bir şekilde erişmesini sağladım.
